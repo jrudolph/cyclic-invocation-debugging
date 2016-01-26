@@ -1,5 +1,5 @@
 libraryDependencies ++= Seq(
-  "org.specs2" %% "specs2-core" % "2.4.9" % "test"
+  "com.typesafe.akka" %% "akka-actor" % "2.3.12"
 )
 
 scalaVersion := "2.11.7"
